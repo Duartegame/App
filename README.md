@@ -232,7 +232,7 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 #EXTINF:-1, Love Nature US
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
 #EXTINF:-1, TV-STAR es
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
