@@ -231,8 +231,8 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1, LA 2 es
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1, Nature Time ES
-https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1, Love Nature US
+https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, TV-STAR es
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
