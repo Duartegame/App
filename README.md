@@ -23,7 +23,7 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlis
 #EXTINF:-1,Caribbean Advantage TV
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:-1,CCTV-4 America
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 #EXTINF:-1,CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1,Choluteca TV
