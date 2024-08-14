@@ -4,7 +4,7 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 https://mediacp.us:8081/504tvhn/index.m3u8
 #EXTINF:-1,Alsacias Televisión
 https://s.emisoras.tv:8081/atv/index.m3u8
-#EXTINF:-1,Anime Zone TV
+#EXTINF:-1,Anime BR
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1,ANIMESTATION
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
@@ -18,8 +18,8 @@ https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 https://stream.oursnetworktv.com/latin/talangatv/playlist.m3u8
 #EXTINF:-1,Canal 15 DTP
 https://s.emisoras.tv:8081/dtp/index.m3u8
-#EXTINF:-1,Canal 26
-https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
+#EXTINF:-1,Canal 26 mx
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 #EXTINF:-1,Caribbean Advantage TV
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:-1,CCTV-4 America
