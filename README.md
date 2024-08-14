@@ -207,7 +207,7 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1, 24 horas ES
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
-#EXTINF:-1, Clantv Internacional
+#EXTINF:-1, Clantv Inter
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
 #EXTINF:-1, COSMOTV es
@@ -231,11 +231,11 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1, LA 2 es
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1, Love Nature US
+#EXTINF:-1, Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
 #EXTINF:-1, TV-STAR es
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
-#EXTINF:-1, TV STAR América
+#EXTINF:-1, TV STAR 2
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
