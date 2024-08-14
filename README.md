@@ -5,7 +5,7 @@ https://mediacp.us:8081/504tvhn/index.m3u8
 #EXTINF:-1,Alsacias Televisión
 https://s.emisoras.tv:8081/atv/index.m3u8
 #EXTINF:-1,Anime Zone TV
-http://animezonetv.net/hls/stream.m3u8
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1,ANIMESTATION
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 #EXTINF:-1,AZA TV HD
