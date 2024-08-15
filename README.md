@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1, Corazon
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
+
+#EXTINF:-1, TeleDiario
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
+
 #EXTINF:-1, 13 Max ar
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
