@@ -245,3 +245,39 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
 #EXTINF:-1, TV STAR 2
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+
+#EXTINF:-1, ATSUR+
+https://video2.getstreamhosting.com:19360/8038/8038.m3u8
+
+#EXTINF:-1, CINERAMA
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+
+#EXTINF:-1, F10 HD
+https://video.live.com.bo:3099/live/f10hdlive.m3u8
+
+#EXTINF:-1, FTV
+https://master.tucableip.com/ftv/index.m3u8
+
+#EXTINF:-1, GO!GO
+https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
+
+#EXTINF:-1, MAR HD
+https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
+
+#EXTINF:-1, PTV
+https://glb.bozztv.com/glb/ssh101/centralptv/index.m3u8
+
+#EXTINF:-1, CANAL 13
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+#EXTINF:-1, CULTURAL
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
+#EXTINF:-1, 13 Py
+https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
+
+#EXTINF:-1, ATV SUR
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:1, EXITOSA
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
