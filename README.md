@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 Canal 5 MX
+#EXTINF:-1, Canal 5 MX
 http://181.78.105.146:2000/play/a038/index.m3u8
 
 #EXTINF:-1, Corazon
