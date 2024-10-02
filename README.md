@@ -284,3 +284,21 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:1, EXITOSA
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+
+#EXTINF:1, TVU
+https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
+
+#EXTINF:1, TNE
+https://v2.tustreaming.cl/tnetv/index.m3u8
+
+#EXTINF:1, T13
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+
+#EXTINF:1, UMAG2
+https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
+
+#EXTINF:1, UCV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:1, VTV
+https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
