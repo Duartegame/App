@@ -166,7 +166,7 @@ https://viewhn.com/telemas/live/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 
 #EXTINF:-1, Valle Visión hn
-https://mediacp.us:8081/vallevision/index.m3u8
+https://glb.bozztv.com/glb/ssh101/sulatv/playlist.m3u8
 
 #EXTINF:-1, TV COPAN hn
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
