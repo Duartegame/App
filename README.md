@@ -145,7 +145,7 @@ https://fl1002.bozztv.com/ssh101/unciontv/index.m3u8
 https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8
 
 #EXTINF:-1, JuntoTV hn
-https://mediacp.us:8081/juncotv/index.m3u8
+https://glb.bozztv.com/glb/ssh101/juncotv/index.m3u8
 
 #EXTINF:-1, TOP sps
 https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
