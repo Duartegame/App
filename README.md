@@ -256,7 +256,7 @@ https://video2.getstreamhosting.com:19360/8038/8038.m3u8
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 
 #EXTINF:-1, F10 HD
-https://video.live.com.bo:3099/live/f10hdlive.m3u8
+https://stmv1.srvif.com/f10tv/f10tv/playlist.m3u8
 
 #EXTINF:-1, FTV
 https://master.tucableip.com/ftv/index.m3u8
