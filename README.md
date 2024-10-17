@@ -220,7 +220,7 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
 #EXTINF:-1, COSMOTV es
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.m3u8
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1, Cuatro ES
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
