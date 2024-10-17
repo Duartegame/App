@@ -49,7 +49,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
 #EXTINF:-1, Canal6 mx
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+https://envivo.canal6.com.hn/memfs/17335dd6-da2d-4556-af98-1b069bf4e829.m3u8
 
 #EXTINF:-1, Estrella NW mx
 https://estrella-news-oando.amagi.tv/playlist.m3u8
