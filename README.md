@@ -138,8 +138,8 @@ https://www.televinterserver.com:19360/crtvcholuteca/crtvcholuteca.m3u8
 #EXTINF:-1, Dios te ve
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 
-#EXTINF:-1, EDNTV hn
-https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+#EXTINF:-1, Unción hn
+https://fl1002.bozztv.com/ssh101/unciontv/index.m3u8
 
 #EXTINF:-1, Girasol hn
 https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8
