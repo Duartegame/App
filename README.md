@@ -193,7 +193,7 @@ https://video.ejeserver.com/live/canal8tv.m3u8
 https://plataformavideo.com:19360/8020/8020.m3u8
 
 #EXTINF:-1, RCN-EXTRA co
-https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/playlist.m3u8
 
 #EXTINF:-1, Canal 1 cr
 https://video20.klm99.com:3993/live/canal1crlive.m3u8
