@@ -121,7 +121,7 @@ https://mediacp.us:8081/azatvhd/index.m3u8
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 
 #EXTINF:-1, Canal 11 hn GEO
-https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 
 #EXTINF:-1, Canal 15 hn
 https://s.emisoras.tv:8081/dtp/index.m3u8
