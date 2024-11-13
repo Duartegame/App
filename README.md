@@ -63,11 +63,12 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1, La voz
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
 
-#EXTINF:-1, NMAS mx
-https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+#EXTINF:-1, m2o
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
-#EXTINF:-1, Nueve TV mx
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+#EXTINF:-1, RTV
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+
 
 #EXTINF:-1, Once mx
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
