@@ -109,8 +109,8 @@ https://webprod.sipse.com.mx:8080/show/merida.m3u8
 #EXTINF:-1, 504TV hn
 https://mediacp.us:8081/504tvhn/index.m3u8
 
-#EXTINF:-1, Activa hn
-https://videoserver.tmcreativos.com:19360/mbcrtzxnxd/mbcrtzxnxd.m3u8
+#EXTINF:-1, El televisión
+https://streamer1.streamhost.org/salive/eltvH/playlist.m3u8
 
 #EXTINF:-1, Alsacias hn
 https://s.emisoras.tv:8081/atv/index.m3u8
