@@ -235,7 +235,7 @@ https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1, LA 1 es
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
 
 #EXTINF:-1, LA 2 es
 https://ztnr.rtve.es/ztnr/1688885.m3u8
