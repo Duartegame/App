@@ -250,25 +250,25 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 
 #EXTINF:-1, ATSUR+
-https://video2.getstreamhosting.com:19360/8038/8038.m3u8
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1, CINERAMA
-https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
 
 #EXTINF:-1, F10 HD
-https://stmv1.srvif.com/f10tv/f10tv/playlist.m3u8
+https://dai.google.com/linear/hls/pa/event/GI-9cp_bT8KcerLpZwkuhw/stream/6a134b8a-0b6e-43cc-9e5d-b9bbecfb0cda:DLS/master.m3u8
 
-#EXTINF:-1, FTV
-https://master.tucableip.com/ftv/index.m3u8
+#EXTINF:-1, PEOMAR
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
 
 #EXTINF:-1, GO!GO
 https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
 
 #EXTINF:-1, MAR HD
-https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
+https://streaming.amelbasoluciones.co:19360/santamartalive/santamartalive.m3u8
 
-#EXTINF:-1, PTV
-https://glb.bozztv.com/glb/ssh101/centralptv/index.m3u8
+#EXTINF:-1, Nova TV Star
+https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 
 #EXTINF:-1,CANAL 13
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
