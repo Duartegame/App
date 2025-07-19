@@ -14,14 +14,14 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1, 5TV ar
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1, A24 ar
-http://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+#EXTINF:-1, América ar
+http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/americatv_540.m3u8
 
-#EXTINF:-1, ATV ar
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1, Canal 7 ar
+http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/canal7mza_480.m3u8
 
 #EXTINF:-1, Music Top
-http://38.51.27.250:3333/Live/1480c855be3879b49bd75bcd95d7c1aa/musictop.playlist.m3u8
+http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/musictop.playlist.m3u8
 
 #EXTINF:-1, Canal2 ar
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
@@ -35,8 +35,8 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1, Ciudad ar
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
-#EXTINF:-1, CN3 ar
-http://38.51.27.250:3333/Live/1480c855be3879b49bd75bcd95d7c1aa/c5n.playlist.m3u8
+#EXTINF:-1, Cordova ar
+http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/cordobatelefe.playlist.m3u8
 
 #EXTINF:-1, AD40 mx
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
