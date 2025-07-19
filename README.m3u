@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Tele Fe
-http://38.51.27.250:3333/Live/1480c855be3879b49bd75bcd95d7c1aa/telefe.playlist.m3u8
+http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/telefe_720.m3u8
 
 #EXTINF:-1, Corazon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
