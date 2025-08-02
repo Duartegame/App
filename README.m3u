@@ -114,8 +114,8 @@ https://streamer1.streamhost.org/salive/eltvH/playlist.m3u8
 #EXTINF:-1, Alsacias hn
 https://s.emisoras.tv:8081/atv/index.m3u8
 
-#EXTINF:-1, Azatv hn
-https://mediacp.us:8081/azatvhd/index.m3u8
+#EXTINF:-1, Silver hn
+http://190.104.226.30/Live/154e36c4c526fb8fbb95cef73a37bcaf/silverchannel.playlist.m3u8 
 
 #EXTINF:-1, Campus hn
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
