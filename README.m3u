@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://example.com/img/La.princesa.perdida.jpg", La princesa perdida
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz44RhfH/Perdida.jpg", La princesa perdida
 http://45.225.68.1:8532/cloud_4/La.princesa.perdida.2025.720.lat.mp4
 
 #EXTINF:-1 tvg-logo="https://example.com/img/Furioza.2.jpg", Furioza 2
