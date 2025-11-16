@@ -1,85 +1,331 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz44RhfH/Perdida.jpg", La princesa perdida
+#EXTINF:-1 group-title="Acción" tvg-logo="https://i.postimg.cc/Dz44RhfH/Perdida.jpg", La princesa perdida
 http://45.225.68.1:8532/cloud_4/La.princesa.perdida.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/Furioza.2.jpg", Furioza 2
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/Furioza.2.jpg", Furioza 2
 http://45.225.68.1:8532/cloud_1/Furioza.2.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/War.2.jpg", War 2
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/War.2.jpg", War 2
 http://45.225.68.1:8532/cloud_1/War.2.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/Batman.Azteca.Choque.de.imperios.jpg", Batman Azteca Choque de imperios
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/Batman.Azteca.Choque.de.imperios.jpg", Batman Azteca Choque de imperios
 http://45.225.68.1:8532/cloud_3/Batman.Azteca.Choque.de.imperios.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/Velocidad.salvaje.jpg", Velocidad salvaje
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/Velocidad.salvaje.jpg", Velocidad salvaje
 http://45.225.68.1:8532/cloud_3/Velocidad.salvaje.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/La.banda.de.ladrones.de.oro.jpg", La banda de ladrones de oro
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/La.banda.de.ladrones.de.oro.jpg", La banda de ladrones de oro
 http://45.225.68.1:8532/cloud_1/La.banda.de.ladrones.de.oro.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/Americana.jpg", Americana
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/Americana.jpg", Americana
 http://45.225.68.1:8532/cloud_2/Americana.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/Nadie.2.jpg", Nadie 2
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/Nadie.2.jpg", Nadie 2
 http://45.225.68.1:8532/cloud_2/Nadie.2.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/Y.donde.esta.el.policia.jpg", Y donde esta el policia
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/Y.donde.esta.el.policia.jpg", Y donde esta el policia
 http://45.225.68.1:8532/cloud_4/Y.donde.esta.el.policia.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/El.ultimo.encargo.jpg", El ultimo encargo
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/El.ultimo.encargo.jpg", El ultimo encargo
 http://45.225.68.1:8532/cloud_4/El.ultimo.encargo.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/Osiris.jpg", Osiris
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/Osiris.jpg", Osiris
 http://45.225.68.1:8532/cloud_4/Osiris.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/Se.lo.que.hicieron.el.verano.pasado.jpg", Se lo que hicieron el verano pasado
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/Se.lo.que.hicieron.el.verano.pasado.jpg", Se lo que hicieron el verano pasado
 http://45.225.68.1:8532/cloud_1/Se.lo.que.hicieron.el.verano.pasado.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/Almost.Cops.jpg", Almost Cops
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/Almost.Cops.jpg", Almost Cops
 http://45.225.68.1:8532/cloud_4/Almost.Cops.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/Superman.jpg", Superman
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/Superman.jpg", Superman
 http://45.225.68.1:8532/cloud_3/Superman.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/Ziam.jpg", Ziam
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/Ziam.jpg", Ziam
 http://45.225.68.1:8532/cloud_4/Ziam.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/Asesinos.de.aliens.del.espacio.sideral.jpg", Asesinos de aliens del espacio sideral
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/Asesinos.de.aliens.del.espacio.sideral.jpg", Asesinos de aliens del espacio sideral
 http://45.225.68.1:8532/cloud_1/Asesinos.de.aliens.del.espacio.sideral.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/Jurassic.World.Renace.jpg", Jurassic World Renace
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/Jurassic.World.Renace.jpg", Jurassic World Renace
 http://45.225.68.1:8532/cloud_4/Jurassic.World.Renace.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/La.vieja.guardia.2.jpg", La vieja guardia 2
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/La.vieja.guardia.2.jpg", La vieja guardia 2
 http://45.225.68.1:8532/cloud_4/La.vieja.guardia.2.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/F1.jpg", F1
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/F1.jpg", F1
 http://45.225.68.1:8532/cloud_2/F1.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/M3GAN.2.0.jpg", M3GAN 2.0
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/M3GAN.2.0.jpg", M3GAN 2.0
 http://45.225.68.1:8532/cloud_3/M3GAN.2.0.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/Jefes.de.estado.jpg", Jefes de estado
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/Jefes.de.estado.jpg", Jefes de estado
 http://45.225.68.1:8532/cloud_1/Jefes.de.estado.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/Las.guerreras.k.pop.jpg", Las guerreras k pop
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/Las.guerreras.k.pop.jpg", Las guerreras k pop
 http://45.225.68.1:8532/cloud_3/Las.guerreras.k.pop.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/Duro.de.casar.jpg", Duro de casar
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/Duro.de.casar.jpg", Duro de casar
 http://45.225.68.1:8532/cloud_1/Duro.de.casar.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/Como.entrenar.a.tu.dragon.jpg", Como entrenar a tu dragon
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/Como.entrenar.a.tu.dragon.jpg", Como entrenar a tu dragon
 http://45.225.68.1:8532/cloud_4/Como.entrenar.a.tu.dragon.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/Depredador.Cazador.de.asesinos.jpg", Depredador Cazador de asesinos
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/Depredador.Cazador.de.asesinos.jpg", Depredador Cazador de asesinos
 http://45.225.68.1:8532/cloud_3/Depredador.Cazador.de.asesinos.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/K.O.jpg", K.O
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/K.O.jpg", K.O
 http://45.225.68.1:8532/cloud_3/K.O.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/Acto.encubierto.jpg", Acto encubierto
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/Acto.encubierto.jpg", Acto encubierto
 http://45.225.68.1:8532/cloud_3/Acto.encubierto.2025.720.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://example.com/img/Bailarina.jpg", Bailarina
+#EXTINF:-1 group-title="Acción" tvg-logo="https://example.com/img/Bailarina.jpg", Bailarina
 http://45.225.68.1:8532/cloud_4/Bailarina.2025.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", TRON Ares
+http://45.225.68.1:8532/cloud_3/TRON.Ares.2025.DCP.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Camina o muere
+http://45.225.68.1:8532/cloud_2/Camina.o.muere.2025.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Los 4 Fantasticos Primeros pasos
+http://45.225.68.1:8532/cloud_4/Los.4.Fantasticos.Primeros.pasos.2025.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", El muro negro
+http://45.225.68.1:8532/cloud_4/El.muro.negro.2025.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Elio
+http://45.225.68.1:8532/cloud_2/Elio.2025.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Exterminio La evolucion
+http://45.225.68.1:8532/cloud_2/Exterminio.La.evolucion.2025.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Nuestros tiempos
+http://45.225.68.1:8532/cloud_4/Nuestros.tiempos.2025.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Lo que le falta a esta estrella
+http://45.225.68.1:8532/cloud_4/Lo.que.le.falta.a.esta.estrella.2025.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Lilo y Stitch
+http://45.225.68.1:8532/cloud_1/Lilo.y.Stitch.2025.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Thunderbolts
+http://45.225.68.1:8532/cloud_2/Thunderbolts.2025.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Kaiju No 8 Mision de reconocimiento
+http://45.225.68.1:8532/cloud_4/Kaiju.No.8.Mision.de.reconocimiento.2025.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Ash
+http://45.225.68.1:8532/cloud_2/Ash.2025.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Estado electrico
+http://45.225.68.1:8532/cloud_3/Estado.electrico.2025.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Mickey 17
+http://45.225.68.1:8532/cloud_1/Mickey.17.2025.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", El abismo secreto
+http://45.225.68.1:8532/cloud_2/El.abismo.secreto.2025.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Capitan America Un nuevo mundo
+http://45.225.68.1:8532/cloud_2/Capitan.America.Un.nuevo.mundo.2025.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Compani era perfecta
+http://45.225.68.1:8532/cloud_2/Companiera.perfecta.2025.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Henry Danger La pelicula
+http://45.225.68.1:8532/cloud_2/Henry.Danger.La.pelicula.2025.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Sonic 3 La pelicula
+http://45.225.68.1:8532/cloud_2/Sonic.3.La.pelicula.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Utopia
+http://45.225.68.1:8532/cloud_2/Utopia.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Y2K
+http://45.225.68.1:8532/cloud_1/Y2K.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Mas Alla de los Limites de la Muerte
+http://45.225.68.1:8532/cloud_1/Mas.Alla.de.los.Limites.de.la.Muerte.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Criaturas Linea de extincion
+http://45.225.68.1:8532/cloud_2/Criaturas.Linea.de.extincion.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Dias futuros
+http://45.225.68.1:8532/cloud_2/Dias.futuros.2022.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Corte en el tiempo
+https://cdn-2-bsas-arg.cinelatino.tv/cloud/Corte.en.el.tiempo.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Venom El ultimo baile
+http://45.225.68.1:8532/cloud_1/Venom.El.ultimo.baile.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Los Horrores de Caddo Lake
+http://45.225.68.1:8532/cloud_3/Los.Horrores.de.Caddo.Lake.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", El final de nuestros dias
+http://45.225.68.1:8532/cloud_1/El.final.de.nuestros.dias.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", El hoyo 2
+http://45.225.68.1:8532/cloud_2/El.hoyo.2.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Robot salvaje
+http://45.225.68.1:8532/cloud_4/Robot.salvaje.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Transformers One
+http://45.225.68.1:8532/cloud_4/Transformers.One.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", The Substance
+http://45.225.68.1:8532/cloud_4/The.Substance.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Subservience
+http://45.225.68.1:8532/cloud_3/Subservience.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Alien Romulus
+http://45.225.68.1:8532/cloud_3/Alien.Romulus.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Borderlands
+http://45.225.68.1:8532/cloud_1/Borderlands.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", My Hero Academia Ahora es tu turno
+http://45.225.68.1:8532/cloud_3/My.Hero.Academia.Ahora.es.tu.turno.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", The Day the Earth Blew Up A Looney Tunes Movie
+http://45.225.68.1:8532/cloud_2/The.Day.the.Earth.Blew.Up.A.Looney.Tunes.Movie.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Deadpool and Wolverine
+http://45.225.68.1:8532/cloud_3/Deadpool.and.Wolverine.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Liga de la Justicia Crisis en Tierras Infinitas Parte 3
+http://45.225.68.1:8532/cloud_3/Liga.de.la.Justicia.Crisis.en.Tierras.Infinitas.Parte.3.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Distant
+http://45.225.68.1:8532/cloud_1/Distant.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Uranus 2324 Siempre nos encontraremos
+http://45.225.68.1:8532/cloud_2/Uranus.2324.Siempre.nos.encontraremos.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Un Lugar En Silencio Dia Uno
+http://45.225.68.1:8532/cloud_3/Un.Lugar.En.Silencio.Dia.Uno.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Sobreviviendo
+http://45.225.68.1:8532/cloud_4/Sobreviviendo.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Ultraman El ascenso
+http://45.225.68.1:8532/cloud_1/Ultraman.El.ascenso.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Furiosa
+http://45.225.68.1:8532/cloud_4/Furiosa.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Kingdom of the Planet of the Apes
+http://45.225.68.1:8532/cloud_3/Kingdom.of.the.Planet.of.the.Apes.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Rebel Moon Parte dos La guerrera que deja marcas
+http://45.225.68.1:8532/cloud_4/Rebel.Moon.Parte.dos.La.guerrera.que.deja.marcas.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Sting Arania asesina
+http://45.225.68.1:8532/cloud_2/Sting.Arania.asesina.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Guerra Civil
+http://45.225.68.1:8532/cloud_4/Guerra.Civil.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Respira
+http://45.225.68.1:8532/cloud_3/Respira.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Godzilla y Kong El nuevo imperio
+http://45.225.68.1:8532/cloud_4/Godzilla.y.Kong.El.nuevo.imperio.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Megamente contra el sindicato de Doom
+http://45.225.68.1:8532/cloud_3/Megamente.contra.el.sindicato.de.Doom.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Dune Part 2
+http://45.225.68.1:8532/cloud_1/Dune.Part.2.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Cazadores en tierra inhospita
+http://45.225.68.1:8532/cloud_3/Cazadores.en.tierra.inhospita.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", La Liga de la Justicia Crisis en las Tierras Infinitas Parte Uno
+http://45.225.68.1:8532/cloud_3/La.Liga.de.la.Justicia.Crisis.en.las.Tierras.Infinitas.Parte.Uno.2024.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Rebel Moon Parte uno La ninia del fuego
+http://45.225.68.1:8532/cloud_1/Rebel.Moon.Parte.uno.La.ninia.del.fuego.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Pobres criaturas
+http://45.225.68.1:8532/cloud_4/Pobres.criaturas.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", The Marvels
+http://45.225.68.1:8532/cloud_1/The.Marvels.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", El molino secreto
+https://cdn-2-bsas-arg.cinelatino.tv/cloud/El.molino.secreto.2023.720.sub.mp4?token=g9_J5BR4Lel1zKAmjcODiw&expires=1763261889
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Monster High 2
+https://cdn-2-bsas-arg.cinelatino.tv/cloud/Monster.High.2.2023.720.lat.mp4?token=GI89jukGqg70ExJOyUJF6A&expires=1763261929
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Criaturas asombrosas
+http://45.225.68.1:8532/cloud_1/Criaturas.asombrosas.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Resistencia
+http://45.225.68.1:8532/cloud_2/Resistencia.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Miniespias Armagedon
+http://45.225.68.1:8532/cloud_3/Miniespias.Armagedon.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", VHS 85
+https://cdn-2-bsas-arg.cinelatino.tv/cloud/VHS.85.2023.720.lat.mp4?token=Yif7Dxfm2q5WgyQ5XxqkfQ&expires=1763262017
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Sombras del miedo
+http://45.225.68.1:8532/cloud_2/Sombras.del.miedo.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Paw Patrol La super pelicula
+http://45.225.68.1:8532/cloud_3/Paw.Patrol.La.super.pelicula.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Tormenta acida
+http://45.225.68.1:8532/cloud_4/Tormenta.acida.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Blue Beetle
+http://45.225.68.1:8532/cloud_4/Blue.Beetle.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Megalodon 2 El gran abismo
+http://45.225.68.1:8532/cloud_3/Megalodon.2.El.gran.abismo.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Liga de la Justicia Mundo Belico
+http://45.225.68.1:8532/cloud_1/Liga.de.la.Justicia.Mundo.Belico.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Biosfera
+http://45.225.68.1:8532/cloud_3/Biosfera.2022.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", R A D A R El Perro Bionico
+http://45.225.68.1:8532/cloud_3/R.A.D.A.R.El.Perro.Bionico.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Flash
+http://45.225.68.1:8532/cloud_3/Flash.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Transformers El despertar de las bestias
+http://45.225.68.1:8532/cloud_1/Transformers.El.despertar.de.las.bestias.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Un reino para todos nosotros
+http://45.225.68.1:8532/cloud_2/Un.reino.para.todos.nosotros.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Spider Man A traves del Spider Verso
+http://45.225.68.1:8532/cloud_3/Spider.Man.A.traves.del.Spider.Verso.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Guardianes de la galaxia Vol 3
+http://45.225.68.1:8532/cloud_2/Guardianes.de.la.galaxia.Vol.3.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Resureccion del mal
+http://45.225.68.1:8532/cloud_4/Resureccion.del.mal.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", La guerra de los mundos El ataque
+http://45.225.68.1:8532/cloud_4/La.guerra.de.los.mundos.El.ataque.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Manana antes despues
+http://45.225.68.1:8532/cloud_3/Manana.antes.despues.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", Asesino
+http://45.225.68.1:8532/cloud_2/Asesino.2023.720.lat.mp4
+
+#EXTINF:-1 group-title="Ficción" tvg-logo="", La Batalla de Los Super Simios
+http://45.225.68.1:8532/cloud_4/La.Batalla.de.Los.Super.Simios.2023.720.lat.mp4
